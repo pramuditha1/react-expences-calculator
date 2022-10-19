@@ -11,4 +11,4 @@ prop drilling
 #### `npm start`
 
 ## Live project sample
-https://enchanting-fox-2af145.netlify.app/
+https://expences-calculator.netlify.app/

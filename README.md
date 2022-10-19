@@ -1,10 +1,6 @@
 # About project
 
-This project implementaed using react technologies such as
-basic react concepts
-useState
-useEffect
-prop drilling
+This project implementaed using react technologies such as basic react concepts, useState, useEffect, prop drilling
 
 ## To run on your machine
 #### `npm install`

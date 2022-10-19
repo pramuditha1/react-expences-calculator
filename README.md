@@ -11,4 +11,4 @@ prop drilling
 #### `npm start`
 
 ## Live project sample
-https://expences-calculator.netlify.app/
+https://sample-login-dashboard.netlify.app/
